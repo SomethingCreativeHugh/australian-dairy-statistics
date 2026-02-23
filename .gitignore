@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data files (raw data too large for git; download via scripts)
+data/raw/
+data/processed/
+data/*.duckdb
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
